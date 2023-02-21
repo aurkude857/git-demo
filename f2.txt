@@ -1,1 +1,1 @@
-adding for the checking branch merge
+adding for the checking branch merge and creating merge conflict
